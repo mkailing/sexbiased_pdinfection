@@ -1,0 +1,2 @@
+# sexbiased_pdinfection
+data and code repository for Kailing_etal_sexbiased_pdinfection_bats
